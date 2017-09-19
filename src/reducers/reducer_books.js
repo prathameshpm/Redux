@@ -5,5 +5,5 @@ export default function () {
     {title: 'Eloquent Ruby'},
     {title: 'Wings of Fire'},
     {title: 'India after Independence'}
-  ]
+  ];
 }
